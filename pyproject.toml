@@ -27,6 +27,7 @@ dev = [
     "mypy==2.4.0",
     "syrupy==5.2.0",
     "voluptuous==0.16.0",
+    "freezegun==1.5.5",
 ]
 
 [tool.setuptools.packages.find]

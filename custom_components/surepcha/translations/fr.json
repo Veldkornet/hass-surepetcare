@@ -258,6 +258,48 @@
           }
         }
       },
+      "feedings_today": {
+        "name": "Repas aujourd'hui",
+        "state_attributes": {
+          "total_grams": {
+            "name": "Grammes au total"
+          },
+          "events": {
+            "name": "Événements"
+          }
+        }
+      },
+      "food_today": {
+        "name": "Nourriture aujourd'hui",
+        "state_attributes": {
+          "count": {
+            "name": "Nombre"
+          },
+          "total_wet_grams": {
+            "name": "Grammes de pâtée au total"
+          },
+          "total_dry_grams": {
+            "name": "Grammes de croquettes au total"
+          },
+          "events": {
+            "name": "Événements"
+          }
+        }
+      },
+      "household_activity_today": {
+        "name": "Activité du foyer aujourd'hui",
+        "state_attributes": {
+          "events": {
+            "name": "Événements"
+          },
+          "pet_photos": {
+            "name": "Photos des animaux"
+          },
+          "device_photos": {
+            "name": "Photos des appareils"
+          }
+        }
+      },
       "position": {
         "name": "Position",
         "state": {
